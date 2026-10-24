@@ -10,7 +10,7 @@
 
 ## About Me
 
-Backend dev in the making. I like poking at things until I understand how they work.
+I like poking at things until I understand how they work.
 
 Mostly I'm here to learn, build stuff, and break it a few times along the way.
 
